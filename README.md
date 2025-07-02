@@ -1,36 +1,44 @@
-<h1 align="center">Hey 👋, I am Muhammad Husnain</h1>
+<h1 align="center">Hey 👋, I am Muhammad Husnain Zargar</h1>
 
 <p align="center">
   <a href="https://hackwithhusnain.com" target="_blank">🌐 Website</a> |
-  <a href="https://linkedin.com/in/hackwithhusnain" target="_blank">LinkedIn</a> |
-  <a href="https://tryhackme.com/p/hackwithhusnain" target="_blank">TryHackMe</a> |
-  <a href="mailto:your@email.com">📧 Email</a>
+  <a href="https://hackwithhusnain.medium.com/" target="_blank">Medium</a> |
+  <a href="https://www.linkedin.com/in/muhammad-husnain-z995/" target="_blank">LinkedIn</a> |
+  <a href="https://tryhackme.com/p/HusnainZargar" target="_blank">TryHackMe</a> |
+  <a href="mailto:info@hackwithhusnain.com">📧 Email</a>
 </p>
-
 ---
 
-🎓 I'm an undergrad cybersecurity student at **Riphah International University**, pursuing a Bachelor of Science in Cybersecurity.
+🎓 I’m a cybersecurity student currently pursuing a **Bachelor of Science in Cybersecurity** from **Riphah International University**. I'm in my **3rd semester** and expect to graduate in **2028**.
 
-🔐 I'm a passionate **Ethical Hacker & Cybersecurity Blogger**, always exploring vulnerabilities and writing about my findings.
+🛡️ With certifications like **eJPTv2**, **EHE**, and the **Google Cybersecurity Certificate**, I’ve built a strong foundation in real-world cybersecurity practices. I created this blog to document my journey, share research, and provide valuable insights for others learning in this field.
 
-🛠️ I enjoy working on:
-- Web & Network Penetration Testing
-- Reverse Engineering
-- Bug Bounty
-- CTFs and Writeups
-- Malware Analysis
+✍️ Whether it’s breaking down complex topics or sharing tutorials, my goal is to contribute to the growing cybersecurity community and help others learn along the way.
 
-✍️ I write technical blogs at [HackWithHusnain](https://hackwithhusnain.com)
+🧠 I enjoy working on:
+- CTFs & Reverse Engineering  
+- Web & Network Penetration Testing  
+- Tool Development for Cybersecurity  
+- Writing Blogs and Technical Content
 
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HusnainZargar&show_icons=true&theme=dark)
+📚 I write technical blogs at [HackWithHusnain](https://hackwithhusnain.com)
 
 ---
 
 ### 💡 Fun Fact
 
-> "The quieter you become, the more you can hear."
+> 🧑‍💻 **Hacking is not a crime** — it’s the **art of understanding systems deeply**.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HusnainZargar&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HusnainZargar&left_color=green&right_color=blue&left_text=Visitors%20(Month)" alt="Monthly Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HusnainZargar&left_color=purple&right_color=blue&left_text=Visitors%20(Year)" alt="Yearly Visitors" />
+</p>
 
