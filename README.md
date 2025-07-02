@@ -7,7 +7,7 @@
   <a href="https://tryhackme.com/p/HusnainZargar" target="_blank">TryHackMe</a> |
   <a href="mailto:info@hackwithhusnain.com">📧 Email</a>
 </p>
----
+
 
 🎓 I’m a cybersecurity student currently pursuing a **Bachelor of Science in Cybersecurity** from **Riphah International University**. I'm in my **3rd semester** and expect to graduate in **2028**.
 
@@ -29,16 +29,7 @@
 
 > 🧑‍💻 **Hacking is not a crime** — it’s the **art of understanding systems deeply**.
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusnainZargar&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HusnainZargar&left_color=green&right_color=blue&left_text=Visitors%20(Month)" alt="Monthly Visitors" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HusnainZargar&left_color=purple&right_color=blue&left_text=Visitors%20(Year)" alt="Yearly Visitors" />
-</p>
 
