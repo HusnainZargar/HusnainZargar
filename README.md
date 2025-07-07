@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://hackwithhusnain.com" target="_blank">🌐 Website</a> |
-  <a href="https://hackwithhusnain.medium.com/" target="_blank">Medium</a> |
-  <a href="https://www.linkedin.com/in/muhammad-husnain-z995/" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/muhammad-husnain-z995/" target="_blank">LinkedIn</a> | 
+  <a href="https://x.com/Husnain_Zargar" target="_blank"> X </a> | 
   <a href="https://tryhackme.com/p/HusnainZargar" target="_blank">TryHackMe</a> |
   <a href="mailto:info@hackwithhusnain.com">📧 Email</a>
 </p>
