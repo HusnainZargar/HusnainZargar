@@ -11,7 +11,7 @@
 
 🎓 I’m a cybersecurity student currently pursuing a **Bachelor of Science in Cybersecurity** from **Riphah International University**. I'm in my **3rd semester** and expect to graduate in **2028**.
 
-🛡️ With certifications like **eJPTv2**, **EHE**, and the **Google Cybersecurity Certificate**, I’ve built a strong foundation in real-world cybersecurity practices. I created this blog to document my journey, share research, and provide valuable insights for others learning in this field.
+🛡️ With certifications like **eJPTv2**, **PT1**, and the **Google Cybersecurity Certificate**, I’ve built a strong foundation in real-world cybersecurity practices. I created this blog to document my journey, share research, and provide valuable insights for others learning in this field.
 
 ✍️ Whether it’s breaking down complex topics or sharing tutorials, my goal is to contribute to the growing cybersecurity community and help others learn along the way.
 
