@@ -9,7 +9,7 @@
 </p>
 
 
-🎓 I’m a cybersecurity student currently pursuing a **Bachelor of Science in Cybersecurity** from **Riphah International University**. I'm in my **3rd semester** and expect to graduate in **2028**.
+🎓 I’m a cybersecurity student currently pursuing a **Bachelor of Science in Cybersecurity** from **Riphah International University**. I'm in my **4th semester** and expect to graduate in **2028**.
 
 🛡️ With certifications like **eJPTv2**, **PT1**, and the **CWSE**, I’ve built a strong foundation in real-world cybersecurity practices. I created this blog to document my journey, share research, and provide valuable insights for others learning in this field.
 
